@@ -25,5 +25,8 @@
     "multer-gridfs-storage": "^5.0.2",
     "nedb": "^1.8.0",
     "node-html-to-image": "^3.2.4"
+  },
+  "engines": {
+    "node": "6.11.1"
   }
 }
